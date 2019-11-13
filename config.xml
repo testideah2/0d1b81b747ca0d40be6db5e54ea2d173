@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ml.web-developers.vasilyeva"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. vasilyeva.web-developers.ml</name>
+    <name>ТЕСТ. School Blog</name>
 
     <description>
         Приложение Web Developers
